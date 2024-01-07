@@ -1,5 +1,8 @@
 
 fun main(){
+
+    // Val = Read Only
+    // Var = Changeable (Mutable)
     val nameVal = "Mohacel"
     var nameVar = "Mohacel"
 
