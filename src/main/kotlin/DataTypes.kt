@@ -1,5 +1,6 @@
 
 fun main(){
+    var introduction:Any = "Welcome to My Bio"
     var age:Int = 24
     var phone:Long = 1946363345L
     var height:Double = 5.56
