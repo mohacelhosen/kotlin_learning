@@ -2,7 +2,7 @@ fun main(){
     println("Welcome the world of programming...😁")
     print("Mohacel ")
     print("Hosen")
-    println()
+    print("\n        🥰       \n")
     println("print() vs println()")
     println("print()")
     /*
