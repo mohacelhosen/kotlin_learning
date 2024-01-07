@@ -1,0 +1,20 @@
+# Kotlin
+*.kt~
+*.kts
+*.kotlin_module
+
+# IntelliJ IDEA
+.idea/
+*.iml
+.idea_modules/
+
+# Android Studio
+*.apk
+*.ap_
+
+# Gradle
+.gradle/
+build/
+
+# Miscellaneous
+.DS_Store
